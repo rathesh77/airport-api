@@ -1,1 +1,2 @@
-web: npx json-server --watch ./json/airport.json && npm run dev
+api: npx json-server --watch ./json/airport.json
+web: npm run dev
