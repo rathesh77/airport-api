@@ -1,0 +1,24 @@
+{
+  "airports": [
+    {
+      "code": "CDG",
+      "name": "Charles de gaulle"
+    },
+    {
+      "code": "LAX",
+      "name": "Los Angeles International Airport"
+    },
+    {
+      "code": "LAD",
+      "name": "Luanda International Airport"
+    },
+    {
+      "code": "JFK",
+      "name": "John F. Kennedy"
+    },
+    {
+      "code": "DTW",
+      "name": "Detroit Metropolitan Wayne"
+    }
+  ]
+}
