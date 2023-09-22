@@ -1,1 +1,1 @@
-web: npx json-server --watch ./json/airport.json
+web: npx json-server -p 4000 --watch ./json/airport.json
